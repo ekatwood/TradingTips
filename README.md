@@ -2,15 +2,8 @@
 
 An AI trained to trade cryptocurrencies and blockchain tokens.
 
-## Getting Started
+Using 25+ years of historical cryptocurrency data, sliced into 100 minute chunks, this AI bot will be trained to trade cryptocurrencies and blockchain tokens. The app will be $50 / month, so it will be only for people who are serious about trading crypto, and want a serious advantage when doing market and price chart analysis.
 
-This project is a starting point for a Flutter application.
+Eventually, this AI model could be broadened to be trained on traditional stock price action as well, but that is future state. The first goal is to use historical cryptocurrency and blockchain price action to teach the AI bot how to trade.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There will also be a banner ad available at the top of the page, which can be booked for a week at a time.
