@@ -8,4 +8,4 @@ Eventually, this AI model could be broadened to be trained on traditional stock 
 
 There will also be a banner ad available at the top of the page, which can be booked for a week at a time.
 
-To support his project, send $LTC to: MFxBxp8ysZVXezAADWBt6tgDf2iqfq6LbY
+To support this project, send $LTC to: MFxBxp8ysZVXezAADWBt6tgDf2iqfq6LbY
