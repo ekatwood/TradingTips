@@ -1,11 +1,13 @@
-# trading_tips
+# TradingTips
 
-An AI trained to trade cryptocurrencies and blockchain tokens.
+Using historical data to train an AI model to trade cryptocurrencies using these data inputs:
 
-Using 25+ years of historical cryptocurrency data, sliced into 100 minute chunks, this AI bot will be trained to trade cryptocurrencies and blockchain tokens. The app will be $50 / month, so it will be only for people who are serious about trading crypto, and want a serious advantage when doing market and price chart analysis.
+Raw (x,y) minute data
+Interpolated spline function representing the data
+A Python matplotlib .png image of the chart
 
-Eventually, this AI model could be broadened to be trained on traditional stock price action as well, but that is future state. The first goal is to use historical cryptocurrency and blockchain price action to teach the AI bot how to trade.
+The goal is to get the AI model to an 80% successful trade rate, and then optimize it from there to hopefully be above 90% accuracy trading.
 
-There will also be a banner ad available at the top of the page, which can be booked for a week at a time.
+Once trained, there will be a Flutter app called TradingTips that will interact with the trained model via an API, showing AI generated trades to the user.
 
-To support this project, send $LTC to: MFxBxp8ysZVXezAADWBt6tgDf2iqfq6LbY
+The app will be $10 / month.
