@@ -3,7 +3,9 @@
 Using historical data to train an AI model to trade cryptocurrencies using these data inputs:
 
 Raw (x,y) minute data
+
 Interpolated spline function representing the data
+
 A Python matplotlib .png image of the chart
 
 The goal is to get the AI model to an 80% successful trade rate, and then optimize it from there to hopefully be above 90% accuracy trading.
